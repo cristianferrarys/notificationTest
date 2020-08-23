@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "187613377333",
+    "firebase_url": "https://notificationtest-56535.firebaseio.com",
+    "project_id": "notificationtest-56535",
+    "storage_bucket": "notificationtest-56535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187613377333:android:e037c6611219a7c3",
+        "android_client_info": {
+          "package_name": "com.pushcristian.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187613377333-ubdosihvdk21l0maf2l3eke5lg48bd48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOCGDOcoTp94fcOTu1fbROtRJuyvvJiYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
